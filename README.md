@@ -13,3 +13,12 @@
 <h1>Robust Diagram</h1>
 
 ![robust diagram ae2](https://user-images.githubusercontent.com/71900386/148481968-7f42266e-137e-4a02-ba33-21aefef51168.png)
+
+
+<h2>Test 1:</h2>
+
+|          Test           |                            Expected Result                             |                            Actual Result                             |          Valid or invalid           | Action needed |
+| :---------------------: | :--------------------------------------------------------------------: | :------------------------------------------------------------------: | :---------------------------------: | :-----------: |
+| Web pages and bootstrap | All web pages to load correctly with bootstrap working within them all | Every page loads as intended and bootstrap is used within every page | Valid <img src="images/image1.png"> |     none      |
+
+<br>
