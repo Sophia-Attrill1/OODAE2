@@ -18,7 +18,7 @@
 
 ![shoppingCartApplicationWebDiagram](https://user-images.githubusercontent.com/71900386/148483820-a4f7207f-165f-4169-85cf-564230d02197.png)
 
-![shoppingCartApplicationWebDiagram](https://user-images.githubusercontent.com/71900386/148483880-f9172671-9f22-4792-9a4d-0d9c7fa8aaba.png)
+
 
 
 <h2>Test 1:</h2>
