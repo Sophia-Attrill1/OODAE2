@@ -1,0 +1,7 @@
+org\solent\com504\oodd\cart\web\shoplogger\shoplogger.class
+org\solent\com504\oodd\cart\web\daoShopProperties.class
+org\solent\com504\oodd\cart\spring\web\SpringBootJspApplication.class
+org\solent\com504\oodd\cart\spring\web\UserAndLoginController.class
+org\solent\com504\oodd\cart\web\WebObjectFactory.class
+org\solent\com504\oodd\cart\spring\web\SpringBootJspConfiguration.class
+org\solent\com504\oodd\cart\spring\web\MVCController.class
