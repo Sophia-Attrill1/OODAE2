@@ -12,4 +12,4 @@
 
 <h1>Robust Diagram</h1>
 
-![robust diagram ae2](https://user-images.githubusercontent.com/71900386/148480890-d8d81e7c-b19a-497f-96cd-92f15e2ec847.png)
+![robust diagram ae2](https://user-images.githubusercontent.com/71900386/148481968-7f42266e-137e-4a02-ba33-21aefef51168.png)
