@@ -1,4 +1,4 @@
-21:16:37.553 [main] [o.s.c.o.b.m.d.t.JsonDtoTests] DEBUG org.solent.com504.oodd.bank.model.dto.test.JsonDtoTests - Json transactionRequest output:
+14:42:44.805 [main] [o.s.c.o.b.m.d.t.JsonDtoTests] DEBUG org.solent.com504.oodd.bank.model.dto.test.JsonDtoTests - Json transactionRequest output:
 {
   "fromCard" : {
     "name" : "",
@@ -16,12 +16,48 @@
   },
   "amount" : 100.01
 }
-21:16:38.024 [main] [o.s.c.o.p.t.PasswordUtilsTest] DEBUG org.solent.com504.oodd.password.test.PasswordUtilsTest - password=1234567890 hashedpw=$2a$12$NI6bUO2cJ4krcOmnvYd7yuKdLV90CVj1ON1XyybwIxCzHWYapV5V6
-21:16:38.290 [main] [o.s.c.o.p.t.PasswordUtilsTest] DEBUG org.solent.com504.oodd.password.test.PasswordUtilsTest - password 1234567890 matches
-21:16:38.786 [main] [o.s.c.o.p.t.PasswordUtilsTest] DEBUG org.solent.com504.oodd.password.test.PasswordUtilsTest - password 1234567890 does not match
-17:37:49.629 [main] [o.s.c.o.b.c.i.BankRestClientImpl] DEBUG org.solent.com504.oodd.bank.client.impl.BankRestClientImpl - transferMoney called: 
-17:37:50.772 [main] [o.s.c.o.b.c.i.BankRestClientImpl] DEBUG org.solent.com504.oodd.bank.client.impl.BankRestClientImpl - Response status=200 ReplyMessage: TransactionReplyMessage{code=200, message=null, status=SUCCESS, fromCardNo=5133880000000012, toCardNo=4285860000000021, transactionId=485ee8a3-867b-4f31-9729-f30ee73ec01a, transactionDate=Thu Jan 06 17:37:49 GMT 2022, amount=0.0}
-17:37:50.772 [main] [o.s.c.o.b.c.t.m.BankClientTest] DEBUG org.solent.com504.oodd.bank.client.test.manual.BankClientTest - transaction with auth reply:TransactionReplyMessage{code=200, message=null, status=SUCCESS, fromCardNo=5133880000000012, toCardNo=4285860000000021, transactionId=485ee8a3-867b-4f31-9729-f30ee73ec01a, transactionDate=Thu Jan 06 17:37:49 GMT 2022, amount=0.0}
-17:37:50.774 [main] [o.s.c.o.b.c.i.BankRestClientImpl] DEBUG org.solent.com504.oodd.bank.client.impl.BankRestClientImpl - transferMoney called: 
-17:37:50.840 [main] [o.s.c.o.b.c.i.BankRestClientImpl] DEBUG org.solent.com504.oodd.bank.client.impl.BankRestClientImpl - Response status=200 ReplyMessage: TransactionReplyMessage{code=200, message=null, status=SUCCESS, fromCardNo=5133880000000012, toCardNo=4285860000000021, transactionId=cc914eb8-e763-4d55-819f-477cc71b168e, transactionDate=Thu Jan 06 17:37:49 GMT 2022, amount=0.0}
-17:37:50.841 [main] [o.s.c.o.b.c.t.m.BankClientTest] DEBUG org.solent.com504.oodd.bank.client.test.manual.BankClientTest - transaction reply:TransactionReplyMessage{code=200, message=null, status=SUCCESS, fromCardNo=5133880000000012, toCardNo=4285860000000021, transactionId=cc914eb8-e763-4d55-819f-477cc71b168e, transactionDate=Thu Jan 06 17:37:49 GMT 2022, amount=0.0}
+14:42:45.367 [main] [o.s.c.o.p.t.PasswordUtilsTest] DEBUG org.solent.com504.oodd.password.test.PasswordUtilsTest - password=1234567890 hashedpw=$2a$12$5rEYqGmdfzalgk/M6boTQOmkfey5waLiJmTLsXjIh5y8ykTjrvYZ2
+14:42:45.633 [main] [o.s.c.o.p.t.PasswordUtilsTest] DEBUG org.solent.com504.oodd.password.test.PasswordUtilsTest - password 1234567890 matches
+14:42:46.142 [main] [o.s.c.o.p.t.PasswordUtilsTest] DEBUG org.solent.com504.oodd.password.test.PasswordUtilsTest - password 1234567890 does not match
+14:43:33.613 [main] [o.s.c.o.b.c.i.BankRestClientImpl] DEBUG org.solent.com504.oodd.bank.client.impl.BankRestClientImpl - transferMoney called: 
+14:43:34.738 [main] [o.s.c.o.b.c.i.BankRestClientImpl] DEBUG org.solent.com504.oodd.bank.client.impl.BankRestClientImpl - Response status=200 ReplyMessage: TransactionReplyMessage{code=200, message=null, status=SUCCESS, fromCardNo=5133880000000012, toCardNo=4285860000000021, transactionId=1ca0ed8f-18e1-4a18-941e-60663acd9f6d, transactionDate=Sat Jan 08 14:43:34 GMT 2022, amount=0.0}
+14:43:34.738 [main] [o.s.c.o.b.c.t.m.BankClientTest] DEBUG org.solent.com504.oodd.bank.client.test.manual.BankClientTest - transaction with auth reply:TransactionReplyMessage{code=200, message=null, status=SUCCESS, fromCardNo=5133880000000012, toCardNo=4285860000000021, transactionId=1ca0ed8f-18e1-4a18-941e-60663acd9f6d, transactionDate=Sat Jan 08 14:43:34 GMT 2022, amount=0.0}
+14:43:34.740 [main] [o.s.c.o.b.c.i.BankRestClientImpl] DEBUG org.solent.com504.oodd.bank.client.impl.BankRestClientImpl - transferMoney called: 
+14:43:34.806 [main] [o.s.c.o.b.c.i.BankRestClientImpl] DEBUG org.solent.com504.oodd.bank.client.impl.BankRestClientImpl - Response status=200 ReplyMessage: TransactionReplyMessage{code=200, message=null, status=SUCCESS, fromCardNo=5133880000000012, toCardNo=4285860000000021, transactionId=da6222c9-e245-492a-b1fe-46349f3d023e, transactionDate=Sat Jan 08 14:43:34 GMT 2022, amount=0.0}
+14:43:34.807 [main] [o.s.c.o.b.c.t.m.BankClientTest] DEBUG org.solent.com504.oodd.bank.client.test.manual.BankClientTest - transaction reply:TransactionReplyMessage{code=200, message=null, status=SUCCESS, fromCardNo=5133880000000012, toCardNo=4285860000000021, transactionId=da6222c9-e245-492a-b1fe-46349f3d023e, transactionDate=Sat Jan 08 14:43:34 GMT 2022, amount=0.0}
+14:59:42.892 [main] [o.s.c.o.b.m.d.t.JsonDtoTests] DEBUG org.solent.com504.oodd.bank.model.dto.test.JsonDtoTests - Json transactionRequest output:
+{
+  "fromCard" : {
+    "name" : "",
+    "endDate" : "",
+    "cardnumber" : "",
+    "cvv" : "111",
+    "issueNumber" : "01"
+  },
+  "toCard" : {
+    "name" : "",
+    "endDate" : "",
+    "cardnumber" : "",
+    "cvv" : "111",
+    "issueNumber" : "01"
+  },
+  "amount" : 100.01
+}
+14:59:54.508 [main] [o.s.c.o.b.m.d.t.JsonDtoTests] DEBUG org.solent.com504.oodd.bank.model.dto.test.JsonDtoTests - Json transactionRequest output:
+{
+  "fromCard" : {
+    "name" : "",
+    "endDate" : "",
+    "cardnumber" : "",
+    "cvv" : "111",
+    "issueNumber" : "01"
+  },
+  "toCard" : {
+    "name" : "",
+    "endDate" : "",
+    "cardnumber" : "",
+    "cvv" : "111",
+    "issueNumber" : "01"
+  },
+  "amount" : 100.01
+}

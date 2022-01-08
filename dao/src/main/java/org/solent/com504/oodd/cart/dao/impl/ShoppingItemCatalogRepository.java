@@ -17,10 +17,5 @@ public interface ShoppingItemCatalogRepository  extends JpaRepository<ShoppingIt
     @Query("select s from ShoppingItem s where s.uuid = :uuid")
     public List<ShoppingItem> findByUuid(@Param("uuid")String uuid);
     
-    @Query("delete s from ShoppingItem s where s.name = :name")
-    public List<ShoppingItem> deleteByName(@Param("name")String name);
-    
-    @Query("select s from ShoppingItem s where s.name = :name")
-    public ShoppingItem findName(@Param("name")String name);
     
 }

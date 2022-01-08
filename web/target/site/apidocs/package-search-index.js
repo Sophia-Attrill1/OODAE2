@@ -1,1 +1,0 @@
-packageSearchIndex = [{"l":"All Packages","url":"allpackages-index.html"},{"l":"org.solent.com504.oodd.cart.spring.web"},{"l":"org.solent.com504.oodd.cart.web"},{"l":"org.solent.com504.oodd.cart.web.shoplogger"}]

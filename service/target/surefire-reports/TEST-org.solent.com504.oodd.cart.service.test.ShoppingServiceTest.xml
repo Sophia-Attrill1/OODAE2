@@ -4,7 +4,7 @@
     <property name="java.runtime.name" value="Java(TM) SE Runtime Environment"/>
     <property name="java.vm.version" value="11.0.5+10-LTS"/>
     <property name="sun.boot.library.path" value="E:\Documents\jdk\jdk-11.0.5\bin"/>
-    <property name="maven.multiModuleProjectDirectory" value="C:\Users\Sophia\Desktop\ood AE2\session8\project-template\shopping-cart-application\service"/>
+    <property name="maven.multiModuleProjectDirectory" value="C:\Users\Sophia\Desktop\shopping-cart-application\service"/>
     <property name="java.vm.vendor" value="Oracle Corporation"/>
     <property name="java.vendor.url" value="http://java.oracle.com/"/>
     <property name="guice.disable.misplaced.annotation.check" value="true"/>
@@ -15,7 +15,7 @@
     <property name="user.country" value="GB"/>
     <property name="sun.java.launcher" value="SUN_STANDARD"/>
     <property name="java.vm.specification.name" value="Java Virtual Machine Specification"/>
-    <property name="user.dir" value="C:\Users\Sophia\Desktop\ood AE2\session8\project-template\shopping-cart-application\service"/>
+    <property name="user.dir" value="C:\Users\Sophia\Desktop\shopping-cart-application\service"/>
     <property name="java.vm.compressedOopsMode" value="Zero based"/>
     <property name="java.runtime.version" value="11.0.5+10-LTS"/>
     <property name="java.awt.graphicsenv" value="sun.awt.Win32GraphicsEnvironment"/>
