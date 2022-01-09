@@ -59,3 +59,10 @@
 
 <br>
 
+<h2>Test 5:</h2>
+
+|          Test           |                            Expected Result                             |                            Actual Result                             |          Valid or invalid           | Action needed |
+| :---------------------: | :--------------------------------------------------------------------: | :------------------------------------------------------------------: | :---------------------------------: | :-----------: |
+| Generating Invoice | When a logged in user completes a transaction, an invoice is generated | An invoice is generated and is available to view to the admin | Valid ![image](https://user-images.githubusercontent.com/71900386/148694424-d503c5dd-7173-4af5-9645-a867c39b8747.png) |     none      |
+
+<br>
