@@ -50,3 +50,12 @@
 | Completing a transaction | Any user can enter card details and send a transaction | The card details are sent to the bank REST API which decrements the total from the card and adds to the banks card | Valid ![image](https://user-images.githubusercontent.com/71900386/148693582-b446b52f-1d36-44e1-bacf-8cb7ce8d6592.png) |     none      |
 
 <br>
+
+<h2>Test 4:</h2>
+
+|          Test           |                            Expected Result                             |                            Actual Result                             |          Valid or invalid           | Action needed |
+| :---------------------: | :--------------------------------------------------------------------: | :------------------------------------------------------------------: | :---------------------------------: | :-----------: |
+| Invalid Transaction | If the user encounters an error when completing a transaction, the application will error | When the user encounters an error a try/catch error function is thrown to prevent the website from crashing | Valid ![image](https://user-images.githubusercontent.com/71900386/148693756-a0a4bde2-ba74-4b3b-bdfc-2623ad92a28f.png) |     none      |
+
+<br>
+
