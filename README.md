@@ -30,6 +30,6 @@
 
 |          Test           |                            Expected Result                             |                            Actual Result                             |          Valid or invalid           | Action needed |
 | :---------------------: | :--------------------------------------------------------------------: | :------------------------------------------------------------------: | :---------------------------------: | :-----------: |
-| Web pages and bootstrap | All web pages to load correctly with bootstrap working within them all | Every page loads as intended and bootstrap is used within every page | Valid <img src="images/image1.png"> |     none      |
+| Catalog Database loading | Catalog database is loaded with three pre populated items | The catalog is populated with three items which the user can add to their basket | Valid ![image](https://user-images.githubusercontent.com/71900386/148693312-f354f955-52c7-40b2-ba6f-26a8ccffa619.png) |     none      |
 
 <br>
