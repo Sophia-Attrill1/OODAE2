@@ -83,4 +83,20 @@
 
 <br>
 
+<h2>Test 8:</h2>
+
+|          Test           |                            Expected Result                             |                            Actual Result                             |          Valid or invalid           | Action needed |
+| :---------------------: | :--------------------------------------------------------------------: | :------------------------------------------------------------------: | :---------------------------------: | :-----------: |
+| Modifying an item | An admin can modify an item | The logged in admin can change details for an item in the catalog  | Valid ![image](https://user-images.githubusercontent.com/71900386/148694896-cfcd1966-0218-4900-8c0d-f9d688e21f76.png) |     none      |
+
+<br>
+
+<h2>Test 9:</h2>
+
+|          Test           |                            Expected Result                             |                            Actual Result                             |          Valid or invalid           | Action needed |
+| :---------------------: | :--------------------------------------------------------------------: | :------------------------------------------------------------------: | :---------------------------------: | :-----------: |
+| Removing an item | An admin can remove an item | The logged in admin can remove an item in the catalog  | Valid ![image](https://user-images.githubusercontent.com/71900386/148694948-1c1f73cd-9339-4830-b008-f9d8b54dc769.png) |     none      |
+
+<br>
+
 
