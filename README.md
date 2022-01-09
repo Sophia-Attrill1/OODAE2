@@ -98,4 +98,12 @@
 
 <br>
 
+<h2>Test 10:</h2>
+
+|          Test           |                            Expected Result                             |                            Actual Result                             |          Valid or invalid           | Action needed |
+| :---------------------: | :--------------------------------------------------------------------: | :------------------------------------------------------------------: | :---------------------------------: | :-----------: |
+| Transaction Logging | Transactions are to be logged to a file | A file with logged transactions can be viewed in the tomcat directory | Valid ![image](https://user-images.githubusercontent.com/71900386/148695233-ab32d286-1e4c-400d-a5f4-ae13e0cf0da2.png) |     none      |
+
+<br>
+
 
