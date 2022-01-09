@@ -38,8 +38,7 @@
 
 |          Test           |                            Expected Result                             |                            Actual Result                             |          Valid or invalid           | Action needed |
 | :---------------------: | :--------------------------------------------------------------------: | :------------------------------------------------------------------: | :---------------------------------: | :-----------: |
-| Adding items to basket | The basket can be populated with items from the catalog and stack items using the quantity variable | The basket is appropiately populated with the chosen items and can be stacked which increases the total | Valid ![image](https://user-images.githubusercontent.com/71900386/148693468-a594cc4b-e355-4f41-a56a-ba071a4bcfdc.png)
- |     none      |
+| Adding items to basket | The basket can be populated with items from the catalog and stack items using the quantity variable | The basket is appropiately populated with the chosen items and can be stacked which increases the total | Valid ![image](https://user-images.githubusercontent.com/71900386/148693468-a594cc4b-e355-4f41-a56a-ba071a4bcfdc.png)|     none      |
 
 <br>
 
