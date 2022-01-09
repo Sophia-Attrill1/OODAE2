@@ -74,3 +74,13 @@
 | Setting Properties | An admin can login and set properties to decide the link to the bank REST API and the credit card to send money to | The logged in admin can set properties | Valid ![image](https://user-images.githubusercontent.com/71900386/148694606-6da369de-c2f5-47b5-81dd-fc71ecdbe74a.png) |     none      |
 
 <br>
+
+<h2>Test 7:</h2>
+
+|          Test           |                            Expected Result                             |                            Actual Result                             |          Valid or invalid           | Action needed |
+| :---------------------: | :--------------------------------------------------------------------: | :------------------------------------------------------------------: | :---------------------------------: | :-----------: |
+| Adding an item | An admin can create an item | The logged in admin can enter details for an item and add it to the catalog  | Valid ![image](https://user-images.githubusercontent.com/71900386/148694762-5a51825a-f404-4ac4-a3bc-f9ad0cc192cb.png) |     none      |
+
+<br>
+
+
