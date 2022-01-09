@@ -10,6 +10,10 @@
 
 ![Capturejavadoc](https://user-images.githubusercontent.com/71900386/148467254-537ac0ad-46e5-4a05-a2bf-98b3a4b55b40.PNG)
 
+<h2>JavaDoc for MVCcontroller</h2>
+
+![mvcontrollerjavadoc](https://user-images.githubusercontent.com/71900386/148692476-fc97687f-80ae-4445-956d-9f184be8d300.PNG)
+
 <h1>Robust Diagram</h1>
 
 ![robust diagram ae2](https://user-images.githubusercontent.com/71900386/148481968-7f42266e-137e-4a02-ba33-21aefef51168.png)
