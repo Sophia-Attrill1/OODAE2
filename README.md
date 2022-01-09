@@ -66,3 +66,11 @@
 | Generating Invoice | When a logged in user completes a transaction, an invoice is generated | An invoice is generated and is available to view to the admin | Valid ![image](https://user-images.githubusercontent.com/71900386/148694424-d503c5dd-7173-4af5-9645-a867c39b8747.png) |     none      |
 
 <br>
+
+<h2>Test 6:</h2>
+
+|          Test           |                            Expected Result                             |                            Actual Result                             |          Valid or invalid           | Action needed |
+| :---------------------: | :--------------------------------------------------------------------: | :------------------------------------------------------------------: | :---------------------------------: | :-----------: |
+| Setting Properties | An admin can login and set properties to decide the link to the bank REST API and the credit card to send money to | The logged in admin can set properties | Valid ![image](https://user-images.githubusercontent.com/71900386/148694606-6da369de-c2f5-47b5-81dd-fc71ecdbe74a.png) |     none      |
+
+<br>
