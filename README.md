@@ -47,8 +47,6 @@
 
 |          Test           |                            Expected Result                             |                            Actual Result                             |          Valid or invalid           | Action needed |
 | :---------------------: | :--------------------------------------------------------------------: | :------------------------------------------------------------------: | :---------------------------------: | :-----------: |
-| Completing a transaction | Any user can enter card details and send a transaction | The card details are sent to the bank REST API which decrements the total from the card and adds to the banks card | Valid ![image](https://user-images.githubusercontent.com/71900386/148693582-b446b52f-1d36-44e1-bacf-8cb7ce8d6592.png)
-
- |     none      |
+| Completing a transaction | Any user can enter card details and send a transaction | The card details are sent to the bank REST API which decrements the total from the card and adds to the banks card | Valid ![image](https://user-images.githubusercontent.com/71900386/148693582-b446b52f-1d36-44e1-bacf-8cb7ce8d6592.png) |     none      |
 
 <br>
